@@ -8,6 +8,7 @@ module.exports = {
       colors: {
         primary: '#030014',
         secondary: '#151312',
+        terciary: '#201087',
         light:{
           100: '#D6C6FF',
           200: '#A8B5DB',
@@ -16,7 +17,6 @@ module.exports = {
         dark: {
           100: '#221f3d',
           200: '#0f0d23',
-
         },
         accent: '#AB8BFF'
       }
